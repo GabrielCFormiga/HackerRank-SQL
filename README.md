@@ -22,7 +22,7 @@ All solutions follow the SQL Style Guide from **The GitLab Handbook** to ensure 
 ## Useful links
 
 - [My HackerRank profile](https://www.hackerrank.com/profile/gabriel_campfor) 
-- [SQL Style Guide](https//handbook.gitlab.com/handbook/enterprise-data/platform/sql-style-guide/)
+- [SQL Style Guide](https://handbook.gitlab.com/handbook/enterprise-data/platform/sql-style-guide/)
 - [SQLFluff](https://github.com/sqlfluff/sqlfluff) 
 
 ## Problem Set
